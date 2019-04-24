@@ -1,0 +1,17 @@
+C:\Users\Soporte\Desktop\Guia2.2Eva3 230419\Guia2 Eva3\Guia2 Eva3\obj\Debug\Guia2 Eva3.csprojAssemblyReference.cache
+C:\Users\Soporte\Desktop\Guia2.2Eva3 230419\Guia2 Eva3\Guia2 Eva3\obj\Debug\Guia2_Eva3.Form1.resources
+C:\Users\Soporte\Desktop\Guia2.2Eva3 230419\Guia2 Eva3\Guia2 Eva3\obj\Debug\Guia2_Eva3.MDIParent1.resources
+C:\Users\Soporte\Desktop\Guia2.2Eva3 230419\Guia2 Eva3\Guia2 Eva3\obj\Debug\Guia2_Eva3.Properties.Resources.resources
+C:\Users\Soporte\Desktop\Guia2.2Eva3 230419\Guia2 Eva3\Guia2 Eva3\obj\Debug\Guia2 Eva3.csproj.GenerateResource.cache
+C:\Users\Soporte\Desktop\Guia2.2Eva3 230419\Guia2 Eva3\Guia2 Eva3\obj\Debug\Guia2 Eva3.csproj.CoreCompileInputs.cache
+C:\Users\willi\Downloads\Guia2\Guia2.2Eva3 230419\Guia2 Eva3\Guia2 Eva3\obj\Debug\Guia2 Eva3.csprojAssemblyReference.cache
+C:\Users\willi\Downloads\Guia2\Guia2.2Eva3 230419\Guia2 Eva3\Guia2 Eva3\obj\Debug\Guia2_Eva3.Form1.resources
+C:\Users\willi\Downloads\Guia2\Guia2.2Eva3 230419\Guia2 Eva3\Guia2 Eva3\obj\Debug\Guia2_Eva3.MDIParent1.resources
+C:\Users\willi\Downloads\Guia2\Guia2.2Eva3 230419\Guia2 Eva3\Guia2 Eva3\obj\Debug\Guia2_Eva3.Properties.Resources.resources
+C:\Users\willi\Downloads\Guia2\Guia2.2Eva3 230419\Guia2 Eva3\Guia2 Eva3\obj\Debug\Guia2 Eva3.csproj.GenerateResource.cache
+C:\Users\willi\Downloads\Guia2\Guia2.2Eva3 230419\Guia2 Eva3\Guia2 Eva3\obj\Debug\Guia2 Eva3.csproj.CoreCompileInputs.cache
+C:\Users\willi\Downloads\Guia2\Guia2.2Eva3 230419\Guia2 Eva3\Guia2 Eva3\bin\Debug\Guia2 Eva3.exe.config
+C:\Users\willi\Downloads\Guia2\Guia2.2Eva3 230419\Guia2 Eva3\Guia2 Eva3\bin\Debug\Guia2 Eva3.exe
+C:\Users\willi\Downloads\Guia2\Guia2.2Eva3 230419\Guia2 Eva3\Guia2 Eva3\bin\Debug\Guia2 Eva3.pdb
+C:\Users\willi\Downloads\Guia2\Guia2.2Eva3 230419\Guia2 Eva3\Guia2 Eva3\obj\Debug\Guia2 Eva3.exe
+C:\Users\willi\Downloads\Guia2\Guia2.2Eva3 230419\Guia2 Eva3\Guia2 Eva3\obj\Debug\Guia2 Eva3.pdb
